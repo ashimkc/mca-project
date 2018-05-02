@@ -1,0 +1,41 @@
+.primary{
+background-color:gray;
+padding:20px 0;
+}
+.bodypart{
+	background-color:red;
+padding:20px 0;
+height:350px;
+width:auto;
+}
+.footer{
+background-color:green;
+padding:20px 0;
+height:150px;
+width:auto;
+}
+ul {
+    list-style-type: none;
+    
+    background-color: #333;
+}
+li a{
+text-decoration:none;
+color:white;
+margin-left:10px;
+text-align:center;
+padding-left:14px 10px:
+}
+li a:hover{
+color:red;
+}
+a:hover{
+color:black;
+}
+/*.gallerytop{
+	background-color:red;
+padding:20px 0;
+height:800px;
+width:auto;
+border:1px solid:red;
+}*/
